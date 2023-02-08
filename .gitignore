@@ -1,0 +1,9 @@
+.*
+!.gitignore
+target/
+*.bak
+*.tmp
+*.log
+*~*
+jgiven-reports/
+
